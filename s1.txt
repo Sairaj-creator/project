@@ -1,1 +1,1 @@
-echo "content from master branch"
+"content from master branch"
